@@ -125,6 +125,8 @@ navigation_header:
   url: /Default/
 - title: Elements
   url: /Default/elements/
+  - title: Elements2
+  url: /Default/elements2/
 - title: Blog
   url: /Default/blog/
 - title: Categories
