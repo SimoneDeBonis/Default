@@ -122,17 +122,17 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /Default/
-- title: Elements
-  url: /Default/elements/
-- title: Elements2
-  url: /Default/elements2/
+  url: /Progetti/
+- title: Default
+  url: /Progetti/Default/
+- title: Exports
+  url: /Progetti/Exports/
 - title: Blog
-  url: /Default/blog/
+  url: /Progetti/blog/
 - title: Categories
-  url: /Default/categories/
+  url: /Progetti/categories/
 - title: Search
-  url: /Default/search/
+  url: /Progetti/search/
 
 navigation_footer:
 - title: Created by David Darnes
