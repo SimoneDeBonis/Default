@@ -1,8 +1,8 @@
 ---
-title: History of the Alembic
+title: Predicting success of a marketing campaign with Logistic Regression
 categories:
-- History
-- External sources
+- Business
+- LinearModels
 feature_text: |
   The History of the Alembic tool
 ---

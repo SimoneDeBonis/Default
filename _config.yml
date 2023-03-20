@@ -65,7 +65,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Simpler Projects" # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
@@ -93,13 +93,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "DDD" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+email: "simone.debonis98@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -140,8 +140,8 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
+  LinkedIn: https://www.linkedin.com/in/SimoneDeBonis
+  GitHub: https://github.com/SimoneDeBonis
   link: https://darn.es
   RSS: /feed.xml
 
