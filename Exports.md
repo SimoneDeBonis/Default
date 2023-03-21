@@ -6,23 +6,23 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 team: 
-  - member: "Annalisa Basta "
+  member: "Annalisa Basta "
     links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.linkedin.com/in/daviddarnes
     - https://github.com/daviddarnes
-  - member: Damiano Agachi Menna
+  member: Damiano Agachi Menna
     links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.linkedin.com/in/daviddarnes
     - https://github.com/daviddarnes
-  - member: Simone De Bonis
+  member: Simone De Bonis
     links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.linkedin.com/in/daviddarnes
     - https://github.com/daviddarnes
-  - member: Chiara Mercati
+  member: Chiara Mercati
     links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.linkedin.com/in/daviddarnes
     - https://github.com/daviddarnes
-  - member: Daniele Torregiani"
+  member: Daniele Torregiani"
     links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.linkedin.com/in/daviddarnes
     - https://github.com/daviddarnes
