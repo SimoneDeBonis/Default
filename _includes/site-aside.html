@@ -5,18 +5,7 @@
       {% include post-related.html %}
     </section>
 
-  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
-    <section class="section  section--description">
-      <h3>The team:</h3>
-      {%- for member in page.team %}
-          <a href="{{ member.links }}">
-              {{ member.member }}
-          </a>
-      </nav>
 
-      {% endfor %}
-
-    </section>
 
   {% elsif page.layout == "categories" %}
     <section class="section  section--category-index">
