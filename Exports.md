@@ -4,7 +4,7 @@ feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
+aside: false
 team: 
   -
     member: "Annalisa Basta"
@@ -13,9 +13,7 @@ team:
       - https://github.com/daviddarnes
   -
     member: "Annalisa Basta"
-    links:  # jekyll-seo-tag > social aliases (sameAs)
-      - https://www.linkedin.com/in/daviddarnes
-      - https://github.com/daviddarnes
+    link: https://www.linkedin.com/in/daviddarnes
   -
     member: "Annalisa Basta"
     links:  # jekyll-seo-tag > social aliases (sameAs)
