@@ -160,4 +160,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 ```
 ### Il team
 
-Simone De Bonis {% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/SimoneDeBonis)
+Simone De Bonis [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/SimoneDeBonis)
