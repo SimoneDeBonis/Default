@@ -6,26 +6,31 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 team: 
-  member: "Annalisa Basta "
+  -
+    member: "Annalisa Basta"
     links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
-  member: Damiano Agachi Menna
+      - https://www.linkedin.com/in/daviddarnes
+      - https://github.com/daviddarnes
+  -
+    member: "Annalisa Basta"
     links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
-  member: Simone De Bonis
+      - https://www.linkedin.com/in/daviddarnes
+      - https://github.com/daviddarnes
+  -
+    member: "Annalisa Basta"
     links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
-  member: Chiara Mercati
+      - https://www.linkedin.com/in/daviddarnes
+      - https://github.com/daviddarnes
+  -
+    member: "Annalisa Basta"
     links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
-  member: Daniele Torregiani"
+      - https://www.linkedin.com/in/daviddarnes
+      - https://github.com/daviddarnes
+      -
+    member: "Annalisa Basta"
     links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+      - https://www.linkedin.com/in/daviddarnes
+      - https://github.com/daviddarnes
 ---
 
 # Heading 1
