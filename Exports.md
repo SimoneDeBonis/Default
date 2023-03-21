@@ -118,20 +118,12 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
 ```
 
-### Button include
 
-{% include button.html text="A button" link="https://david.darn.es" %}
 
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
-```
 
 ### Icon include
 
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
+
 
 ``` html
 {% raw %}{% include icon.html id="twitter" title="twitter" %}
@@ -166,3 +158,6 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
 ```
+### Il team
+
+Simone De Bonis {% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/SimoneDeBonis)
