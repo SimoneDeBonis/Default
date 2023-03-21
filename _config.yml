@@ -124,15 +124,15 @@ navigation_header:
 - title: Home
   url: /Projects/
 - title: Default
-  url: /Projects/Default/
+  url: /Default/
 - title: Exports
-  url: /Projects/Exports/
+  url: /Exports/
 - title: Blog
-  url: /Projects/blog/
+  url: /blog/
 - title: Categories
-  url: /Projects/categories/
+  url: /categories/
 - title: Search
-  url: /Projects/search/
+  url: /search/
 
 navigation_footer:
 - title: Created by David Darnes

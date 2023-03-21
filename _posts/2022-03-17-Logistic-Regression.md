@@ -2,7 +2,6 @@
 title: Predicting success of a marketing campaign with Logistic Regression
 categories:
 - Business
-- LinearModels
 feature_text: |
   The History of the Alembic tool
 ---
