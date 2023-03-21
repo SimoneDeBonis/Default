@@ -10,6 +10,16 @@
       <h3>The team:</h3>
       {%- for member in page.team %}
       <p>{{ member.member }}</p>
+      <nav class="nav  nav--social">
+        {% for link in member.links %}
+          {% if link[1] != blank %}
+            {% assign id = link[0] | downcase %}
+            <a href="{{ link[1] }}">
+              {% include icon.html id=id title=id %}
+            </a>
+          {% endif %}
+        {% endfor %}
+      </nav>
 
       {% endfor %}
       </nav>
