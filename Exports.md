@@ -5,7 +5,11 @@ feature_text: |
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
-team: "Simone De Bonis"
+team: "Annalisa Basta 
+Damiano Agachi Menna
+Simone De Bonis
+Chiara Mercati
+Daniele Torregiani"
 ---
 
 # Heading 1
