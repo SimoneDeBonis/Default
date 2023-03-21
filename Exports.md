@@ -26,7 +26,7 @@ team:
     links:  # jekyll-seo-tag > social aliases (sameAs)
       - https://www.linkedin.com/in/daviddarnes
       - https://github.com/daviddarnes
-      -
+  -
     member: "Annalisa Basta"
     links:  # jekyll-seo-tag > social aliases (sameAs)
       - https://www.linkedin.com/in/daviddarnes
