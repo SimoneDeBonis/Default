@@ -1,5 +1,5 @@
 ---
-title: Il team di Dam
+title: DDD
 feature_text: |
   ## Dam's Team
   Risolviamo i vostri problemi di Data Science a domicilio
