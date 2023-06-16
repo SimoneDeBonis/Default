@@ -125,8 +125,6 @@ navigation_header:
   url: /
 - title: Default
   url: /Default/
-- title: Exports
-  url: /Exports/
 - title: Blog
   url: /blog/
 - title: Categories
