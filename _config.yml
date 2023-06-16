@@ -125,16 +125,16 @@ navigation_header:
   url: /
 - title: Default
   url: /Default/
-- title: Blog
+- title: Default[ita]
+  url: /Default_it/
+- title: Other Projects
   url: /blog/
-- title: Categories
-  url: /categories/
 - title: Search
   url: /search/
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Made in UNIVPM
+  url:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
