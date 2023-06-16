@@ -2,7 +2,7 @@
 title: Elements
 feature_text: |
   Prediction of default of italian municipalities
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://simonedebonis.github.io/Projects/assets/artificial-intelligence.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
