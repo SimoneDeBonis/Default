@@ -3,7 +3,7 @@ title: DDD
 feature_text: |
   ## Damiano, Daniele & Simone
   Risolviamo i vostri problemi di Data Science a domicilio
-feature_image: :assets/artificial-intelligence.jpg
+feature_image: ":/assets/artificial-intelligence.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
