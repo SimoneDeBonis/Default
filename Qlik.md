@@ -23,7 +23,7 @@ aside: false
 
 # Mix Energetico
 
-![](/assets/Qlik/default-social-image.png)
+![](/assets/Qlik/Dashboarde1.png)
 
 ### Il team
 
