@@ -123,6 +123,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
+- title: Qlik
+  url: /Qlik/
 - title: Default
   url: /Default/
 - title: Default[ita]
