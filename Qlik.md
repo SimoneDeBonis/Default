@@ -25,20 +25,30 @@ aside: false
 
 ![](/assets/Qlik/Dashboard1.png)
 La dashboard 'Mix Energetico' consente di sviscerare in dettaglio la produzione interna di ciascun paese europeo fornendo risposte a quesiti del tipo: quando e quali sorgenti di energia la nazione X ha impiegato nell'anno XXXX?
-
+KPI
+fonti nel dettaglio
+uso nel tempo
+top paesi per fonte
 
 ![](/assets/Qlik/Dashboard1.2.png)
 
 # Analisi commerciale
 
 ![](/assets/Qlik/Dashboard2.png)
+KPI
+Partner di importazione ed esportazione
+Aspetto occupazionale
+Aspetto economico e costi
 
-
-![](/assets/Qlik/Dashboard2.2.png)
+![](/assets/Qlik/dashboard2.2.png)
 
 # Impatto ambientale
 
 ![](/assets/Qlik/Dashboard3.png)
+KPI
+Andamento delle diossine
+centrali più inquinanati
+localizzazione e info delle centrali
 
 ![](/assets/Qlik/Dashboard3.2.png)
 ![](/assets/Qlik/Dashboard3.3.png)
