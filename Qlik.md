@@ -23,7 +23,7 @@ aside: false
 
 # Mix Energetico
 
-![](/assets/Qlik/Dashboarde1.png)
+![](/assets/Qlik/Dashboard1.png)
 La dashboard 'Mix Energetico' consente di sviscerare in dettaglio la produzione interna di ciascun paese europeo fornendo risposte a quesiti del tipo: quando e quali sorgenti di energia la nazione X ha impiegato nell'anno XXXX?
 
 ### Il team
