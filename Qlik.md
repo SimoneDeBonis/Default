@@ -51,7 +51,7 @@ Passando alla sezione "Top Paesi per produzione elettrica sulla base della fonte
 In conclusione, la dashboard 'Mix Energetico' attraverso visualizzazioni efficaci permette di comprendere i dati della produzione di energia elettrica in modo dettagliato, offre una panoramica completa dei mix energetici dei paesi europei e la possibilità di confrontarli tra essi. 
 
 # Analisi commerciale
-
+### Italia 2021
 ![](/assets/Qlik/Dashboard2.png)
 Attraverso il pulsante 'Analisi', è possibile accedere alla seconda dashboard che si focalizza sull'analisi commerciale dell'energia, fornendo anche alcuni insights riguardanti gli aspetti socio-economici del paese selezionato.
 
@@ -64,7 +64,7 @@ Nel periodo tra il 2011 e il 2015, il costo dell'elettricità per uso domestico 
 
 ### Importazioni ed esportazioni
 Sul lato sinistro della dashboard sono presenti due grafici che tracciano le importazioni ed esportazioni del paese Italia. È possibile notare che i partner più rilevanti in entrambe le direzioni del flusso energetico sono la Svizzera e la Francia. Nonostante le esportazioni italiane rappresentino solo l'1,36% del fabbisogno totale, ci sono scambi in uscita verso le nazioni citate in precedenza a causa della difficoltà di prevedere il consumo energetico nel corso del tempo e della limitata flessibilità della produzione nel adattarsi rapidamente alla domanda. Pertanto, quando si verifica un eccesso di produzione da parte di un paese e una mancanza di offerta da parte dell'altro, avvengono tali scambi che solitamente avvengono in direzioni invertite.
-
+### Francia 2021
 ![](/assets/Qlik/dashboard2.2.png)
 Nel corso del 2021, la Francia ha mantenuto una bilancia commerciale positiva di 45 TWh, confermando il suo ruolo di maggior esportatore di energia elettrica nel continente. Questo valore è aumentato dell'8,17% rispetto agli ultimi 5 anni. Tra i principali partner verso cui la Francia esporta energia, troviamo l'Italia, il Regno Unito, il Belgio e la Spagna. Un aspetto interessante è che l'Italia appare tra i paesi da cui la Francia importa energia, principalmente a causa del fatto che la Corsica soddisfa il suo fabbisogno energetico attraverso l'esportazione italiana.
 
@@ -75,7 +75,6 @@ Passando all'analisi economica, nel periodo tra il 2011 e il 2021, il costo dell
 In conclusione, questa dashboard fornisce una prospettiva approfondita sull'aspetto commerciale e socio-economico dell'energia elettrica, consentendo di valutare la dipendenza dalle forniture estere, il divario di genere nel mercato del lavoro e l'impatto dei costi energetici sui cittadini. Tali informazioni sono di fondamentale importanza per l'analisi strategica e la pianificazione delle politiche energetiche ed individuare le caratteristiche che determinano il sistema paese.
 
 # Impatto ambientale
-
 ![](/assets/Qlik/Dashboard3.png)
 Nella terza dashboard, troviamo visualizzazioni che mettono in evidenza l'efficienza delle reti produttive nazionali e l'impatto delle emissioni sulla salute dei cittadini.
 ### KPI
@@ -85,9 +84,10 @@ Il grafico composto rappresenta l'andamento dell'indice di decarbonizzazione, co
 
 Inoltre, è possibile osservare la quantità di kg di CO2 emessa per produrre un MWh dalle diverse tipologie di centrali. Nel caso dell'Italia, le centrali a gas, essendo anche le più diffuse, sono quelle che, in termini assoluti, inquinano di più.
 ### Mappa
-Successivamente, è possibile visualizzare le centrali sul territorio selezionato, identificando facilmente la loro tipologia in base al colore e la loro rilevanza in base alla grandezza del punto localizzatore. Passando con il cursore sopra di esse, è possibile ottenere maggiori informazioni tecniche. Vi é la possibilità di avere un'anteprima del mix energetico dei paesi europei, passando sopra la torta sovrapposta a ciascuno di essi e scoprire in quale percentuali ciascuna fonte é stata impiegata nello specifico anno per generare elettricità.
 ![](/assets/Qlik/Dashboard3.2.png)
 ![](/assets/Qlik/Dashboard3.3.png)
+Successivamente, è possibile visualizzare le centrali sul territorio selezionato, identificando facilmente la loro tipologia in base al colore e la loro rilevanza in base alla grandezza del punto localizzatore. Passando con il cursore sopra di esse, è possibile ottenere maggiori informazioni tecniche. Vi é la possibilità di avere un'anteprima del mix energetico dei paesi europei, passando sopra la torta sovrapposta a ciascuno di essi e scoprire in quale percentuali ciascuna fonte é stata impiegata nello specifico anno per generare elettricità.
+
 Nonostante la forte dipendenza dalle fonti fossili, in particolare dal gas, carbone e petrolio, e data la buona efficienza media degli impianti di generazione elettrica, l'Italia si mantiene in linea con gli altri Paesi europei nella riduzione degli inquinanti atmosferici del settore energy. 
 
 ### Il team
