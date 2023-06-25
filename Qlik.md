@@ -77,14 +77,18 @@ In conclusione, questa dashboard fornisce una prospettiva approfondita sull'aspe
 # Impatto ambientale
 
 ![](/assets/Qlik/Dashboard3.png)
-KPI
-Andamento delle diossine
-centrali più inquinanati
-localizzazione e info delle centrali
+Nella terza dashboard, troviamo visualizzazioni che mettono in evidenza l'efficienza delle reti produttive nazionali e l'impatto delle emissioni sulla salute dei cittadini.
+## KPI
+I KPI in alto forniscono informazioni sulle quantità di CO2 emesse dalle centrali elettriche, la loro efficienza media e i danni in termini di vite umane causati dalle diossine rilasciate. In Italia, l'impatto del settore energetico sull'ambiente è in diminuzione, con le emissioni che si attestano al 31% nel 2020, al di sotto della media europea stabile al 34% delle emissioni totali. Si stima che nel 2017, i giorni di vita persi pro capite a causa dell'esposizione a diossine come i PM10 e PM2.5 fossero di 3,23 giorni, riducendosi a 2,83 giorni nel 2020, pur rimanendo superiori alla media europea di 2,1 giorni, mentre i morti precoci dovuti a problemi respiratori e/o cardiaci che sono causati dallo smog si stimano essere circa 50 mila all'anno.
 
+Il grafico composto rappresenta l'andamento dell'indice di decarbonizzazione, con un valore di riferimento pari a 100 nel 2000, che indica quanto un paese abbia ridotto la propria impronta di CO2 nel corso degli anni. Anche in questa situazione, l'Italia é in linea con i partner europei.
+
+Inoltre, è possibile osservare la quantità di kg di CO2 emessa per produrre un MWh dalle diverse tipologie di centrali. Nel caso dell'Italia, le centrali a gas, essendo anche le più diffuse, sono quelle che, in termini assoluti, inquinano di più.
+## Mappa
+Successivamente, è possibile visualizzare le centrali sul territorio selezionato, identificando facilmente la loro tipologia in base al colore e la loro rilevanza in base alla grandezza del punto localizzatore. Passando con il cursore sopra di esse, è possibile ottenere maggiori informazioni tecniche. Vi é la possibilità di avere un'anteprima del mix energetico dei paesi europei, passando sopra la torta sovrapposta a ciascuno di essi e scoprire in quale percentuali ciascuna fonte é stata impiegata nello specifico anno per generare elettricità.
 ![](/assets/Qlik/Dashboard3.2.png)
 ![](/assets/Qlik/Dashboard3.3.png)
-
+Nonostante la forte dipendenza dalle fonti fossili, in particolare dal gas, carbone e petrolio, e data la buona efficienza media degli impianti di generazione elettrica, l'Italia si mantiene in linea con gli altri Paesi europei nella riduzione degli inquinanti atmosferici del settore energy. 
 
 ### Il team
 
