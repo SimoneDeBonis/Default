@@ -21,7 +21,7 @@ aside: false
 - Performance e emissioni dei siti produttivi
 
 # Mix Energetico
-## Mix Energetico Italia 2022
+### Mix Energetico Italia 2022
 ![](/assets/Qlik/Dashboard1.png)
 La dashboard 'Mix Energetico' è uno strumento completo che consente di analizzare in dettaglio la produzione interna di energia di ciascun paese europeo, fornendo risposte a quesiti del tipo:  quando e quali sorgenti di energia la nazione X ha impiegato nell'anno XXXX? Grazie alla presenza di due pulsanti di navigazione indicati con i nomi delle rispettive sezioni, l'esplorazione e la navigazione all'interno della dashboard é intuitive e semplici.
 
