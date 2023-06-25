@@ -37,7 +37,7 @@ Il grafico a ciambella mostra le principali fonti di energia utilizzate per la p
 ### Mix energetico
 Un altro strumento di visualizzazione fornito dalla dashboard è il grafico a linee, che riporta la produzione mensile delle sei fonti di energia nel periodo 2016-2022. Questo tipo di visualizzazione è estremamente utile per analizzare l'andamento nel medio periodo e comprendere l'andamento di produzione delle diverse fonti di energia. In particolare, si può notare la presenza di una stagionalità dovuta ai consumi e alla produzione di alcune categorie di energia. Ad esempio, il grafico evidenzia l'aumento significativo dell'energia solare e idroelettrica durante l'estate, l'energia eolica che registra un aumento di produzione durante la primavera e l'autunno, e la costanza dell'energia geotermica nel corso di tutto l'anno.
 
-## Mix Energetico Germania 2022
+### Mix Energetico Germania 2022
 ![](/assets/Qlik/Dashboard1.2.png)
 Nello stesso periodo, in Germania, il consumo pro capite è stato di 6,19 MWh, registrando una diminuzione dell'11,5% rispetto al 2016 e del 10% rispetto al periodo pre-Covid. Tuttavia, la Germania detiene il primato del consumo individuale più elevato in tutto il vecchio continente. Nel 2022, il 46,95% dei consumi tedeschi è stato prodotto da fonti "Verdi", evidenziando una crescita del 14,72% negli ultimi 7 anni. Nonostante ciò, tale percentuale è inferiore al picco massimo raggiunto nel 2020, quando ha raggiunto il 50,58%. Ciò indica che la Germania si avvicina di più alla media europea rispetto all'Italia in termini di consumo di energia da fonti verdi.
 
