@@ -39,22 +39,40 @@ Un altro strumento di visualizzazione fornito dalla dashboard è il grafico a li
 
 ## Mix Energetico Germania 2022
 ![](/assets/Qlik/Dashboard1.2.png)
+Nello stesso periodo, in Germania, il consumo pro capite è stato di 6,19 MWh, registrando una diminuzione dell'11,5% rispetto al 2016 e del 10% rispetto al periodo pre-Covid. Tuttavia, la Germania detiene il primato del consumo individuale più elevato in tutto il vecchio continente. Nel 2022, il 46,95% dei consumi tedeschi è stato prodotto da fonti "Verdi", evidenziando una crescita del 14,72% negli ultimi 7 anni. Nonostante ciò, tale percentuale è inferiore al picco massimo raggiunto nel 2020, quando ha raggiunto il 50,58%. Ciò indica che la Germania si avvicina di più alla media europea rispetto all'Italia in termini di consumo di energia da fonti verdi.
 
-## Top Paesi per produzione elettrica con fonte
+Le fonti verdi, come l'eolico e il solare, hanno avuto un peso maggiore nel sistema produttivo tedesco rispetto alle medie europee, nonostante l'uso ancora intenso di materiali altamente inquinanti come il carbone e il gas. Dal punto di vista temporale, la sorgente "Fossili" è sempre meno utilizzata (ad eccezione dell'anno 2022) e viene sostituita da fonti "Verdi" come l'eolico e il solare. Allo stesso tempo, l'energia nucleare sta perdendo importanza nel portafoglio produttivo tedesco poiché le poche centrali ancora in funzione sono in fase di dismissione.
+
+## Top Paesi per produzione elettrica sulla base della fonte
+
+Passando alla sezione "Top Paesi per produzione elettrica sulla base della fonte" all'interno della dashboard, è possibile utilizzare il filtro 'Fonte' posizionato sul lato sinistro per selezionare la categoria desiderata e ottenere una classifica dei paesi europei che maggiormente sfruttano quella specifica fonte nel proprio piano di produzione energetica nazionale. Ad esempio, impostando il filtro su 'Fossili', si nota che la Germania è il paese europeo che maggiormente fa uso di questa fonte in termini assoluti, seguita dall'Italia e dalla Turchia. Tuttavia, è la Polonia il paese europeo che si affida maggiormente alle fonti non rinnovabili per generare la propria corrente elettrica.
 
 
-
-In conclusione, la dashboard 'Mix Energetico' attraverso visualizzazioni efficaci permette di comprendere i dati della produzione di energia elettrica in modo dettagliato, offre una panoramica completa dei mix energetici dei paesi europei e la possibilità di confrontarli tra essi.
+In conclusione, la dashboard 'Mix Energetico' attraverso visualizzazioni efficaci permette di comprendere i dati della produzione di energia elettrica in modo dettagliato, offre una panoramica completa dei mix energetici dei paesi europei e la possibilità di confrontarli tra essi. 
 
 # Analisi commerciale
 
 ![](/assets/Qlik/Dashboard2.png)
-KPI
-Partner di importazione ed esportazione
-Aspetto occupazionale
-Aspetto economico e costi
+Attraverso il pulsante 'Analisi', è possibile accedere alla seconda dashboard che si focalizza sull'analisi commerciale dell'energia, fornendo anche alcuni insights riguardanti gli aspetti socio-economici del paese selezionato.
+
+## KPI
+I KPI presenti nella parte superiore della dashboard mostrano la variazione annuale delle importazioni e delle esportazioni di energia elettrica e la loro percentuale rispetto alla produzione totale del paese selezionato. Questo può essere utilizzato come un indicatore per valutare l'indipendenza dalle forniture estere. Prendendo ad esempio l'Italia nel 2021, si osserva un aumento delle importazioni di energia, diventando un importatore netto di 43 TWh dai paesi confinanti. Inoltre, dal 2016 la dipendenza energetica dall'estero è aumentata del 15,56%, peggiorando il saldo energetico annuale e quello a medio termine fissato a 5 anni.
+
+## Aspetti socio-economici
+Nel corso degli anni, il divario di genere nel mercato del lavoro italiano ha mostrato una situazione pressoché stabile. Si è passati dal rapporto occupazionale maschile-femminile del 57,9% - 42,1% nel 2016 al 57,6% - 42,4% nel 2021.
+Nel periodo tra il 2011 e il 2015, il costo dell'elettricità per uso domestico è aumentato del 25%, mentre il PIL pro capite nello stesso periodo è diminuito del 4,3%. Ciò rende il costo dell'energia sempre più rilevante nel bilancio delle famiglie italiane. Durante l'ultimo periodo di pandemia, i due indicatori hanno mostrato un andamento simile.
+
+## Importazioni ed esportazioni
+Sul lato sinistro della dashboard sono presenti due grafici che tracciano le importazioni ed esportazioni del paese Italia. È possibile notare che i partner più rilevanti in entrambe le direzioni del flusso energetico sono la Svizzera e la Francia. Nonostante le esportazioni italiane rappresentino solo l'1,36% del fabbisogno totale, ci sono scambi in uscita verso le nazioni citate in precedenza a causa della difficoltà di prevedere il consumo energetico nel corso del tempo e della limitata flessibilità della produzione nel adattarsi rapidamente alla domanda. Pertanto, quando si verifica un eccesso di produzione da parte di un paese e una mancanza di offerta da parte dell'altro, avvengono tali scambi che solitamente avvengono in direzioni invertite.
 
 ![](/assets/Qlik/dashboard2.2.png)
+Nel corso del 2021, la Francia ha mantenuto una bilancia commerciale positiva di 45 TWh, confermando il suo ruolo di maggior esportatore di energia elettrica nel continente. Questo valore è aumentato dell'8,17% rispetto agli ultimi 5 anni. Tra i principali partner verso cui la Francia esporta energia, troviamo l'Italia, il Regno Unito, il Belgio e la Spagna. Un aspetto interessante è che l'Italia appare tra i paesi da cui la Francia importa energia, principalmente a causa del fatto che la Corsica soddisfa il suo fabbisogno energetico attraverso l'esportazione italiana.
+
+Analizzando l'occupazione femminile in Francia, si può osservare un aumento dal 48,35% nel 2016 al 48,96% nel 2021. Questo indica una disparità occupazionale inferiore rispetto all'Italia. Ampliando l'analisi ai paesi nordici, emerge una caratteristica comune: una bassa disparità occupazionale tra generi e un maggiore utilizzo delle fonti di energia rinnovabile rispetto all'Italia o ad altri paesi con caratteristiche simili. Questo tipo di confronto é ancora più accentuato nel confronto tra i paesi scandinavi e la Polonia o la Bulgaria.
+
+Passando all'analisi economica, nel periodo tra il 2011 e il 2021, il costo dell'elettricità per le utenze domestiche in Francia è aumentato del 35,7%. Nel frattempo, il PIL pro capite è cresciuto solo del 4,2%. Come già evidenziato per l'Italia, anche per i cittadini francesi il costo dell'elettricità è diventato sempre più rilevante nel corso degli anni, sebbene il costo per kWh sia inferiore rispetto all'Italia (0,2 €/kWh rispetto a 0,23 €/kWh). Per le utenze industriali, i prezzi sono rimasti pressoché stabili fino al 2021, sebbene vi siano differenze di prezzo tra i due paesi.
+
+In conclusione, questa dashboard fornisce una prospettiva approfondita sull'aspetto commerciale e socio-economico dell'energia elettrica, consentendo di valutare la dipendenza dalle forniture estere, il divario di genere nel mercato del lavoro e l'impatto dei costi energetici sui cittadini. Tali informazioni sono di fondamentale importanza per l'analisi strategica e la pianificazione delle politiche energetiche ed individuare le caratteristiche che determinano il sistema paese.
 
 # Impatto ambientale
 
