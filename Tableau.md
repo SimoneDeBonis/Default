@@ -7,9 +7,9 @@ aside: false
 ---
 
 # Obiettivo
-- Visualizzare il mix di produzione elettrica dei Paesi Europei 
-- Analisi degli scambi comunitari
-- Impatto ambientale del settore energetico
+Gli [Obiettivi globali](https://www.globalgoals.org/)
+
+Dal momento che siamo a metà, a che punto siamo?
 
 # Dati Eurostat e JRC
 - Produzione interna sulla base delle fonti impiegate

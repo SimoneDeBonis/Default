@@ -15,6 +15,27 @@ Partendo da Open Data italiani provenienti dal Ministero dell’Interno, OpenCiv
 Le variabili sociali includono il genere, l’età e l’istruzione del sindaco, il numero di abitanti medi nel periodo 2012-2018. L’utilizzo a fini di analisi del partito politico di appartenenza del sindaco è limitato dalla presenza massiccia di liste civiche non riconducibili alle aree politiche di appartenenza.
 Le variabili finanziarie includono Fondo Perequativo, Fondo Storico, Rimborso prestiti su entrate correnti, Rigidità della spesa, Reddito imponibile individuale, Consistenza iniziale dei residui passivi, Popolazione media, Spese personale su spese correnti, Grado di finanziamento interno, Dipendenza da finanziamento esterno, Dipendenza da contributi e trasferimenti correnti ed Autonomia impositiva.
 In aggiunta è stato sviluppato un modello di Early Warning, un SVM con kernel radiale, per prevedere futuri default. Non essendo presenti dati aggiornati e visti i problemi derivanti dalla pandemia, nella dashboard sono considerati Early Warning le misclassificazioni del modello: un comune sano predetto in default dall’svm viene considerato come tale.
+
+### IL dataset 
+
+Il dataset è stato realizzato aggregando i dati necessari da più fonti; ISTAT:
+- per quanto riguarda l’ottenimento dei dati demografici; Ministero dell’Interni:
+- tramite la piattaforma Open Data e il sito del Ministero, è stato possibile proccurare informazioni che riguardano la composizione dei consigli comunali, in particolare i nominativi dei sindaci, il loro sesso, il livello di formazione e l’orientamento politico.
+- Grazie alla Circolare 20/2020 dell’Ufficio I Consulenza e studi finanza locale, è stato possibile ottenere i comuni dissestanti o deficitari fino all’anno 2019.
+OpenCivitas:
+- la politica di coesione del Fondo Sviluppo e Coesione (ex FAS) che, attraverso risorse
+nazionali, finanzia progetti strategici, sia di carattere infrastrutturale sia di carattere
+immateriale, di rilievo nazionale, interregionale e regionale.
+- il fondo perequativo è uno strumento che mira a mitigare le diseguaglianze tra
+Regioni i cui abitanti presentano differenti capacità fiscale, al fine di garantire gli stessi standard di prestazione nell’erogazione dei servizi di competenza, nonostante gli squilibri economico-sociali: il fondo è istituito senza vincolo di destinazione ed è finanziato da quote di entrate tributarie.
+MEF/Dipartimento delle finanze:
+- ricavando i dati Irpef degli enti locali ha reso possibile aggiungere la variabile che
+tenesse conto del reddito imponibile individuale per ciascuno di loro.
+L'unione di queste informazioni ha reso possibile la creazione di un dataset con tutti i comuni italiani e per ciascuno vi sono stati riportati:
+
+![](/assets/PowerBI/plots.png)
+
+### Preprocessing
 ### Il team
 
  
