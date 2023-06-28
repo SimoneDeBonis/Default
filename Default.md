@@ -31,7 +31,7 @@ tenesse conto del reddito imponibile individuale per ciascuno di loro.
 L'unione di queste informazioni ha reso possibile la creazione di un dataset con tutti i comuni italiani e per ciascuno vi sono stati riportati:
 
 ![](/assets/PowerBI/plots.png)
-<img src="/assets/PowerBI/plots.png" alt="drawing" width="200"/>
+<img src="/assets/PowerBI/plots.png"  width="200"/>
 
 ### Preprocessing
 ### Il team
