@@ -1,12 +1,12 @@
 ---
-title: Early Warning dei default dei comuni italiani
+title: Early Warning del default dei comuni
 feature_text: 
 feature_image: "https://simonedebonis.github.io/Projects/assets/artificial-intelligence.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
 
-# Analisi
+### Obiettivo dell'analisi
 Il “default”, meglio definito come “dissesto finanziario” si verifica quando un comune caratterizzato da gravi ed incontrovertibili condizioni di squilibrio finanziario non riesce più a svolgere le sue funzioni di base e a fornire alla cittadinanza quei servizi considerati indispensabili. 
 Il dissesto è una cosa ben diversa dal fallimento di un’impresa privata: non si può determinare l’estinzione del comune proprio perché́ gli enti locali non possono cessare di esistere, ma bisogna garantire la continuità̀ amministrativa. 
 Il dissesto di un comune è una procedura complessa che impatta negativamente sulla qualità della vita dei suoi cittadini. Comprendere perché questo succeda è fondamentale per prevenirlo agendo tempestivamente. L’analisi si concentra sull’anno 2018.
@@ -18,10 +18,7 @@ In aggiunta è stato sviluppato un modello di Early Warning, un SVM con kernel r
 
 ### IL dataset 
 
-Il dataset è stato realizzato aggregando i dati necessari da più fonti; ISTAT:
-- per quanto riguarda l’ottenimento dei dati demografici; Ministero dell’Interni:
-- tramite la piattaforma Open Data e il sito del Ministero, è stato possibile proccurare informazioni che riguardano la composizione dei consigli comunali, in particolare i nominativi dei sindaci, il loro sesso, il livello di formazione e l’orientamento politico.
-- Grazie alla Circolare 20/2020 dell’Ufficio I Consulenza e studi finanza locale, è stato possibile ottenere i comuni dissestanti o deficitari fino all’anno 2019.
+Il dataset è stato realizzato aggregando i dati necessari da più fonti: ISTAT, Ministero dell’Interno, dalla Circolare 20/2020 dell’Ufficio I Consulenza e studi finanza locale è stato possibile ottenere i comuni dissestanti o deficitari fino all’anno 2019.
 OpenCivitas:
 - la politica di coesione del Fondo Sviluppo e Coesione (ex FAS) che, attraverso risorse
 nazionali, finanzia progetti strategici, sia di carattere infrastrutturale sia di carattere
@@ -34,6 +31,7 @@ tenesse conto del reddito imponibile individuale per ciascuno di loro.
 L'unione di queste informazioni ha reso possibile la creazione di un dataset con tutti i comuni italiani e per ciascuno vi sono stati riportati:
 
 ![](/assets/PowerBI/plots.png)
+<img src="/assets/PowerBI/plots.png" alt="drawing" width="200"/>
 
 ### Preprocessing
 ### Il team
