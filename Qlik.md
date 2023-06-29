@@ -1,7 +1,7 @@
 ---
 title: Analisi del mix Energetico dei paesi europei
 feature_text: 
-feature_image: "https://simonedebonis.github.io/Projects/assets/artificial-intelligence.jpg"
+feature_image: "https://simonedebonis.github.io/Projects/assets/Qlik/wind1.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---

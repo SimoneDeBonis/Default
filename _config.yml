@@ -124,9 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Mix Energetico
-  url: 
-  - /Qlik/
-  - /Default/
+  url: /Qlik/
 #- title: Agenda ONU 2030
 #  url: /Tableau/
 #- title: Default
