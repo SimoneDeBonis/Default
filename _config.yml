@@ -125,14 +125,12 @@ navigation_header:
   url: /
 - title: Mix Energetico
   url: /Qlik/
-- title: Agenda ONU 2030
-  url: /Tableau/
-- title: Default
-  url: /Default/
-- title: Default[ita]
-  url: /Default_it/
-- title: Other Projects
-  url: /blog/
+#- title: Agenda ONU 2030
+#  url: /Tableau/
+#- title: Default
+#  url: /Default/
+#- title: Other Projects
+#  url: /blog/
 - title: Search
   url: /search/
 
