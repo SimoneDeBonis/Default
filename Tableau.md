@@ -1,7 +1,7 @@
 ---
 title: Agenda Onu 2030
 feature_text: 
-feature_image: "https://simonedebonis.github.io/Projects/assets/Tableau/goals1.jpg"
+feature_image: "https://simonedebonis.github.io/Projects/assets/Tableau/goals.png"
 
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
