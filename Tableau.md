@@ -11,17 +11,6 @@ Gli [Obiettivi globali](https://www.globalgoals.org/)
 
 Dal momento che siamo a metà, a che punto siamo?
 
-# Dati Eurostat e JRC
-- Produzione interna sulla base delle fonti impiegate
-- Import ed export
-- Sociali-economici
-- Emissioni del settore energy
-- Impatto delle diossine sulla salute pubblica
-- Posizione geografica delle centrali elettriche
-- Performance e emissioni dei siti produttivi
-
-# Mix Energetico
-
 
 
 ### Il team
