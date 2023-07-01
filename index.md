@@ -11,7 +11,9 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 Damiano, Daniele e Simone sono 3 studenti di Data Science all'Università Politecnica delle Marche.
 Durante il percorso di laurea hanno fatto dei progetti insieme e hanno deciso di metterli insieme in questo sito.
 Damiano: ""
+
 Daniele: ""
+
 Simone: ""
 
 ### Il team
