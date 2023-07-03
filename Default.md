@@ -35,6 +35,9 @@ Il dataset finale è composto da:
 ![](/assets/PowerBI/plots.png)
 
 ### Preprocessing
+Il codice del preprocessing è disponibile [qui](), la sparsità dei dati di partenza non sempre ha permesso i join motivo per cui il dataset finale parte da 6000+ istanze anzichè tutti gli 8000 comuni italiani.
+
+Inoltre, nel periodo di riferimento, un numero importante di comuni è stato soggetto a fusioni, rendendo impossibile il join.
 ### Il team
 
  
