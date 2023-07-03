@@ -1,7 +1,7 @@
 ---
 title: Early Warning del default dei comuni
 feature_text: 
-feature_image: "https://simonedebonis.github.io/Projects/assets/artificial-intelligence.jpg"
+feature_image: "https://simonedebonis.github.io/Projects/assets/napoli.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
