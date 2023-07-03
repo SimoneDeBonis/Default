@@ -2,7 +2,7 @@
 title: 
 feature_text: 
 
-feature_image: "https://simonedebonis.github.io/Projects/assets/artificial-intelligence.jpg"
+feature_image: "https://simonedebonis.github.io/Projects/assets/villarey.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
