@@ -13,7 +13,7 @@ Durante il percorso di laurea hanno avuto modo di lavorare insieme su progetti d
 
 Damiano: "Sono l'ingegnere gestionale che, con la mente analitica di un data scientist, trasforma cumuli di dati grezzi in conoscenza che illumina nuove prospettive."
 
-Daniele: ""
+Daniele: "Ogni dato nasconde una storia. Il mio compito (e la mia passione) è di scoprirla e di sintetizzarla in conoscenza utile."
 
 Simone: ""
 
