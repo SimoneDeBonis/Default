@@ -4,7 +4,7 @@ categories:
 - Business
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-Questo progetto è disponibile sottoforma di report [qui](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Time%20Series%20Report.pdf)
+Questo progetto è disponibile sottoforma di report [qui](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Utili%20Americani.pdf)
 
 
 L’utile di un’impresa è uno degli indicatori più importanti per fare analisi di mercato, aiuta a comprendere quanto una società sia redditizia. 
