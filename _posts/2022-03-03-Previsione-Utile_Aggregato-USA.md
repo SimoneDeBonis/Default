@@ -4,7 +4,7 @@ categories:
 - Business
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-Questo progetto è disponibile sottoforma di report [qui](assets/reports/Time Series Report.pdf)
+Questo progetto è disponibile sottoforma di report [qui](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Time%20Series%20Report.pdf)
 
 
 L’utile di un’impresa è uno degli indicatori più importanti per fare analisi di mercato, aiuta a comprendere quanto una società sia redditizia. 
@@ -34,7 +34,7 @@ Abbiamo svolto l’analisi predittiva in base a tre possibili scenari futuri per
 
 ### Scenario Pessimista
 
-![](/assets/reports/time1.png)
+![](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time1.png)
 
 Il primo scenario si riferisce ad una condizione estremamente negativa, dove assistiamo ad un crollo degli utili più che consistente, a seguito degli effetti sull’economia di una potenziale crisi finanziaria e della guerra: a seguito di questo shock, gli utili previsti appaiono dimezzati dopo appena 6 mesi (dal terzo trimestre 2022 al primo del 2023), per poi diminuire ancora durante il corso dell’anno, fino ad arrivare ad un valore atteso di $40 miliardi a chiusura dell’esercizio.  
 
@@ -42,7 +42,7 @@ In questo scenario consigliamo di rimanere vigili alle possibili opportunità di
 
 ### Scenario Atteso 
 
-![](/assets/reports/time2.png)
+![](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time2.png)
 
 Descrizione generata automaticamenteIn caso di uno scenario futuro “neutrale” privo di shock, il valore atteso degli utili futuri ad un anno è in lieve aumento rispetto al terzo trimestre 2022, passando da 187 a 198 mld USD (+ 5.88%). 
 
@@ -54,7 +54,8 @@ In questa situazione, avviare un’impresa negli Stati Uniti può sembrare una d
 
 ### Scenario ottimista
 
-![](/assets/reports/time3.png)
+![](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time3.png)
+
 Nel terzo scenario di previsione per il 2023 consideriamo una possibile crescita economica.  
 
 Il valore atteso degli utili delle imprese americane, in queste condizioni favorevoli, è stimato intorno ai $203 miliardi nel primo trimestre del 2023, fino ad arrivare a $224 miliardi alla chiusura dell’esercizio. 
@@ -74,7 +75,8 @@ Inoltre, i test diagnostici eseguiti sul modello non segnalano problemi di errat
 Inoltre l’ARIMAX(1,1,1), è il modello che, data la scelta delle 4 esogene, riduce l’RMSE out-of-sample del 2023 a 7.27 (in questo caso usando come training set le osservazioni fino a 2021:4). 
 
  I coefficienti stimati con Massima verosimiglianza esatta per la variabile dipendente I(1) ∆ 〖Utile〗_t sono:
-![](/assets/reports/time4.png)
+
+![](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time4.png)
 
 [2] Costruzione degli scenari 
 
