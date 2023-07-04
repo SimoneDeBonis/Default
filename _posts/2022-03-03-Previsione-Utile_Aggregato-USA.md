@@ -4,7 +4,9 @@ categories:
 - Business
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-Questo progetto è disponibile sottoforma di report [qui]()
+Questo progetto è disponibile sottoforma di report [qui](assets/reports/Time Series Report.pdf)
+
+
 L’utile di un’impresa è uno degli indicatori più importanti per fare analisi di mercato, aiuta a comprendere quanto una società sia redditizia. 
 Conoscere in anticipo l’utile aggregato futuro porta vantaggio competitivo dal momento che permette di prendere decisioni di business in modo consapevole, capendo se avviare una nuova società potrebbe rivelarsi un investimento profittevole o meno. 
 
