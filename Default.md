@@ -35,13 +35,35 @@ Il dataset finale è composto da:
 
 ![](/assets/PowerBI/plots.png)
 
+### Analisi Sociale
+
+![](/assets/PowerBI/power1.png)
+
+![](/assets/PowerBI/power1.1.png)
+
+![](/assets/PowerBI/power1.3.png)
+
+### Analisi Economico-Finanziaria
+
+![](/assets/PowerBI/power2.png)
+
+![](/assets/PowerBI/power2.1.png)
+
 ### Preprocessing
 Il codice del preprocessing è disponibile qui **inserire link**, la sparsità dei dati di partenza non sempre ha permesso i join motivo per cui il dataset finale parte da 6000+ istanze anzichè tutti gli 8000 comuni italiani.
 
 Inoltre, nel periodo di riferimento, un numero importante di comuni è stato soggetto a fusioni, rendendo impossibile il join.
+
+### Modello 
+
+### Analisi Early-Warning
+
+![](/assets/PowerBI/power3.png)
+
+![](/assets/PowerBI/power3.2.png)
+
 ### Il team
 
- 
 Damiano Agachi Menna [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/damiano-am/)  
 Simone De Bonis [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/SimoneDeBonis)  
 Daniele Torregiani [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daniele-torregiani-369b54243/)  
