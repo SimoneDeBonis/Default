@@ -56,7 +56,7 @@ La costruzione del modello ha richiesto diversi passaggi:
 -	Le variabili sono state standardizzate, dopodiché sono stati calcolati i prodotti incrociati, i quadrati e i cubi delle stesse;
 -	È stato utilizzato uno stimatore Lasso per identificare le variabili più importanti, l’iperparametro λ è stato individuato attraverso una 10-fold cross-validation con l’algoritmo Cyclical Coordinate Descent (CCD);
 -	Sulle variabili individuate dalla regressione lasso è stato utilizzato un OLS.
-![](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Lasso3.png)
+<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Lasso3.png " width="400" height="400"/>
 
 [3] Multicollinearità:
 Per evitare il problema della multicollinearità, nel modello sono state inserite n-1 variabili dummy (dove n è il numero di settori presenti), perciò il β relativo a Basic Materials è contenuto nell’intercetta, e tutte le altre variabili sono espresse in funzione della distanza da Basic Materials.
