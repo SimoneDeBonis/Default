@@ -15,7 +15,7 @@ Damiano: "Sono l'ingegnere gestionale che, con la mente analitica di un data sci
 
 Daniele: "Ogni dato nasconde una storia. Il mio compito (e la mia passione) è di scoprirla e di sintetizzarla in conoscenza utile."
 
-Simone: ""
+Simone: "Sono ossessionato dal capire il mondo, i dati permettono di comprendere l'universo"
 
 ### Il team
 
