@@ -127,10 +127,10 @@ navigation_header:
   url: /Qlik/
 - title: Agenda ONU 2030
   url: /Tableau/
-#- title: Default
+#- title: Comuni Italiani
 #  url: /Default/
-#- title: Other Projects
-#  url: /blog/
+- title: Business Report
+  url: /blog/
 - title: Search
   url: /search/
 
