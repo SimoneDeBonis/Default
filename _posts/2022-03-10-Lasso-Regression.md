@@ -10,6 +10,9 @@ feature_text: |
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
+
+Questo progetto è disponibile sottoforma di report [qui](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Regressione%20Lasso.pdf)
+
 La stima dell’EPS futuro è un’informazione fondamentale per un investitore: permette sia di indurre il potenziale ritorno sull’investimento ottenibile investendo in una specifica società, sia di comparare la redditività di aziende diverse. 
 La regressione è una tecnica di analisi statistica che permette di indagare relazioni di dipendenza tra variabili e consente di studiare i rapporti causa-effetto: attraverso la regressione è possibile analizzare la dinamica dei profitti delle aziende e stimare l’EPS futuro di un’impresa, questo significa poter decidere se far parte del suo azionariato oppure no.
 Le informazioni disponibili su 2482 [1] società presenti nell’indice Russell 3000 comprendono le rispettive categorie e sottocategorie industriali di appartenenza, oltre ai valori di alcuni indicatori economici e finanziari. Il dataset presenta una notevole variabilità in ognuno degli indicatori, con differenze marcate in base al settore industriale. Ad esempio, le società appartenenti al settore “Consumer Discretionary”, in media, hanno elevati livelli di ROE e di Vendite Nette. 
