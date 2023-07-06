@@ -39,7 +39,7 @@ Inoltre, per predire i ricavi futuri è stata utilizzata anche la serie storica 
 
 Dall’analisi del modello notiamo che i ricavi di Apple per i quattro trimestri del 2022 aumenteranno, considerando un intervallo di confidenza entro il quale il valore predetto potrebbe oscillare. 
 
-<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/SVR2.png" width="700" height="200"/>
+<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/SVR2.png" width="600" height="200"/>
 
 ### Implicazioni di Business: 
 
