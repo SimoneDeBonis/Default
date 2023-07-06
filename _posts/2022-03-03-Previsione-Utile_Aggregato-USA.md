@@ -35,7 +35,7 @@ Abbiamo svolto l’analisi predittiva in base a tre possibili scenari futuri per
 ### Scenario Pessimista
 
 
-<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time1.png" width="800" height="400"/>
+<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time1.png" width="700" height="300"/>
 
 Il primo scenario si riferisce ad una condizione estremamente negativa, dove assistiamo ad un crollo degli utili più che consistente, a seguito degli effetti sull’economia di una potenziale crisi finanziaria e della guerra: a seguito di questo shock, gli utili previsti appaiono dimezzati dopo appena 6 mesi (dal terzo trimestre 2022 al primo del 2023), per poi diminuire ancora durante il corso dell’anno, fino ad arrivare ad un valore atteso di $40 miliardi a chiusura dell’esercizio.  
 
@@ -43,7 +43,7 @@ In questo scenario consigliamo di rimanere vigili alle possibili opportunità di
 
 ### Scenario Atteso 
 
-<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time2.png" width="800" height="400"/>
+<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time2.png" width="700" height="300"/>
 
 Descrizione generata automaticamenteIn caso di uno scenario futuro “neutrale” privo di shock, il valore atteso degli utili futuri ad un anno è in lieve aumento rispetto al terzo trimestre 2022, passando da 187 a 198 mld USD (+ 5.88%). 
 
@@ -55,7 +55,7 @@ In questa situazione, avviare un’impresa negli Stati Uniti può sembrare una d
 
 ### Scenario ottimista
 
-<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time3.png" width="800" height="400"/>
+<img src="https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/time3.png" width="700" height="300"/>
 
 Nel terzo scenario di previsione per il 2023 consideriamo una possibile crescita economica.  
 
