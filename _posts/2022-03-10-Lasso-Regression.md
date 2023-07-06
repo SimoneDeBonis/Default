@@ -22,7 +22,7 @@ Il modello è stato definito in modo tale che l’errore di generalizzazione sia
 Partendo dalle variabili disponibili, e considerando anche la loro combinazione fino al quarto grado, si è implementato l’algoritmo LASSO per la selezione delle variabili più significative. Alla luce delle suddette analisi, il modello che meglio rappresenta il fenomeno è [2]: 
 
 ![](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Lasso1.png)
-![](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Lasso2.png)
+![](https://github.com/SimoneDeBonis/Projects/raw/main/assets/reports/Lasso2.png =100x20)
 
 
 Il modello contiene informazioni quantitative sugli indicatori maggiormente influenti rispetto alle stime dell’EPS futuro (come l’Enterprise Value, il Return On Asset, e le interazioni presenti tra EV - ROE e NS – ROA), ma anche le informazioni qualitative sulle categorie industriali.
