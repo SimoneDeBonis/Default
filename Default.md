@@ -72,6 +72,7 @@ Il codice del preprocessing è disponibile qui **inserire link**, la sparsità d
 
 Inoltre, nel periodo di riferimento, un numero importante di comuni è stato soggetto a fusioni, rendendo impossibile il join.
 
+Essendo fortemente sbilanciato il dataset abbiamo proceduto con un undersampling della classe maggioritaria
 ### Modello 
 
 ### Analisi Early-Warning
