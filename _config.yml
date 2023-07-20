@@ -127,8 +127,8 @@ navigation_header:
   url: /Qlik/
 - title: Agenda ONU 2030
   url: /Tableau/
-#- title: Comuni Italiani
-#  url: /Default/
+- title: Comuni Italiani
+  url: /Default/
 - title: Business Report
   url: /blog/
 - title: Search
