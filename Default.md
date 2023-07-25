@@ -50,7 +50,7 @@ la mappa in alto a destra mostra la densità della popolazione che è molto simi
 
 Possiamo focalizzare la nostra analisi su una singola provincia come, ad esempio, quella di Ancona.
 Andando sul singolo comune possiamo visualizzarne le caratteristiche nel dettaglio, dalle caratteristiche del sindaco alla differenza di popolazione tra il 2018 e il 2011, in media tutti i comuni italiani sono affetti da spopolamento
-La percentuale di sindaci di sesso femminile è maggiore al nord () e nei comuni con sindaci più giovani ()
+La percentuale di sindaci di sesso femminile è maggiore al nord (17.33%) che al sud (8.47%) e nei comuni con sindaci più giovani ()
 
 ![](/assets/PowerBI/power1.3.png)
 
@@ -68,18 +68,28 @@ Sotto abbiamo due misure fondamentali per il default possiamo visualizzarne i va
 Possiamo notare come i comuni deficitari siano in tutta italia, con prevalenza maggiore al sud
 
 ### Preprocessing
-Il codice del preprocessing è disponibile qui **inserire link**, la sparsità dei dati di partenza non sempre ha permesso i join motivo per cui il dataset finale parte da 6000+ istanze anzichè tutti gli 8000 comuni italiani.
+Il codice del preprocessing è disponibile [qui](https://github.com/SimoneDeBonis/Municipalities-default-prediction/blob/main/Datasets/Dataset_creation.R), la sparsità dei dati di partenza non sempre ha permesso i join motivo per cui il dataset finale parte da 6000+ istanze anzichè tutti gli 8000 comuni italiani.
 
 Inoltre, nel periodo di riferimento, un numero importante di comuni è stato soggetto a fusioni, rendendo impossibile il join.
 
 Essendo fortemente sbilanciato il dataset abbiamo proceduto con un undersampling della classe maggioritaria
 ### Modello 
 
+A causa di problemi con l'ambiente R il modello è in working progress, lo stiamo portando su Python, ci scusiamo per il disagio. I risultati, compreso il codice e il procedimento, saranno disponibili [qui](https://github.com/SimoneDeBonis/Municipalities-default-prediction/tree/main).
+
 ### Analisi Early-Warning
 
 ![](/assets/PowerBI/power3.png)
 
+In ottica proattiva,  possiamo andare a fare un'analisi conclusiva chiedendoci: ci sono dei comuni sani a rischio default? 
+Abbiamo sviluppato un modello, SVM con kernel radiale,  che ci permette di comprendere meglio il fenomeno
+Il kpi individua la percentuale di comuni a rischio
+A destra possiamo selezionare le due misure ritenute interessanti per fare l'analisi, essendo il default un fenomeno complesso, non sono determinabili a priori.
+
 ![](/assets/PowerBI/power3.2.png)
+Notiamo come la regione di appartenenza sembri influenzare molto la previsione
+Il tooltip ci permette di avere tutte le informazioni sul comune
+Le misure sulla destra possono essere visualizzate su base provinciale o comunale
 
 ### Il team
 
